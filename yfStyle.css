@@ -1,0 +1,13 @@
+body {
+    background-image: url("sten.jpg");
+    background-repeat: repeat;
+}
+
+.lista{
+    margin: auto;
+    padding: 2%;
+    background-color: white;
+    width: 80%;
+    border-radius: 10px;
+    text-align: center;
+}

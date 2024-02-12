@@ -1,0 +1,25 @@
+body {
+    background-image: url("wood.jpg");
+    background-repeat: no-repeat;
+}
+
+#headlineContainer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+#headline{
+    width: 60%;   
+}
+.container{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+
+.loggor{
+    display: flex;
+    justify-content: center;
+}
