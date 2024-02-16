@@ -1,6 +1,7 @@
 body {
-    background-image: url("wood.jpg");
+    background-image: url("wood2.png");
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 #headlineContainer{
